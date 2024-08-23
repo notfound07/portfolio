@@ -1,0 +1,125 @@
+/* General Styles */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.mainContent {
+  padding: 20px;
+  background-color: #f4f4f4;
+  border-radius: 8px;
+}
+
+/* Header Styles */
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* About Section Styles */
+.aboutSection {
+  margin-bottom: 20px;
+}
+
+.aboutSection h3 {
+  color: #333;
+  font-size: 1.5em;
+}
+
+.aboutSection p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* Education and Work Experience Section Styles */
+.educationSection, .experienceSection {
+  margin-bottom: 20px;
+}
+
+.educationSection h3, .experienceSection h3 {
+  color: #333;
+  font-size: 1.5em;
+}
+
+.educationSection ul, .experienceSection ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.educationSection li, .experienceSection li {
+  font-size: 1em;
+  color: #666;
+  margin-bottom: 8px;
+}
+
+.experienceSection p {
+  font-size: 1em;
+  line-height: 1.6;
+  color: #666;
+}
+
+/* Buttons Styles */
+.buttons {
+  margin-bottom: 20px;
+}
+
+.buttonOrange, .buttonWhite {
+  border: none;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 5px;
+}
+
+.buttonOrange {
+  background-color: #ff5722;
+  color: #fff;
+}
+
+.buttonWhite {
+  background-color: #fff;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
+.buttonOrange:hover, .buttonWhite:hover {
+  opacity: 0.9;
+}
+
+/* Social Links Styles */
+.socialLinks {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.socialLinks h3 {
+  color: #333;
+  font-size: 1.5em;
+}
+
+.socialIcons a {
+  color: #333;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.socialIcons a:hover {
+  color: #ff5722;
+}
+
+/* Footer Styles */
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 0 0 8px 8px;
+}
+
+.footer p {
+  margin: 0;
+}
