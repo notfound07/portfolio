@@ -1,4 +1,4 @@
-Here's the updated **README.md** for your portfolio project:  
+Here's the **README.md** :  
 
 ---
 
