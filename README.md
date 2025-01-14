@@ -1,4 +1,4 @@
-Here's the **README.md**:  
+Here's the updated **README.md** for your portfolio project:  
 
 ---
 
@@ -45,7 +45,7 @@ This is a simple and clean portfolio website built with **ReactJS**. It highligh
 ---
 
 ### 🔗 Links  
-- **Live Demo**: [Simple Portfolio](https://github.com/notfound07/portfolio)  
+- **Live Demo**: [Simple Portfolio](https://notfound07.github.io/portfolio/)  
 - **GitHub Repository**: [Simple Portfolio Repository](https://github.com/notfound07/portfolio)  
 
 ---
